@@ -38,12 +38,12 @@ This project is based on an idea of
 * https://oshwlab.com/vitalian1980/z80-tester (Hardware, Public Domain)
 
 and additionally based on ideas of
-* https://bitbucket.org/rudolff/z80-tester (Software, No license)
+* https://bitbucket.org/rudolff/z80-tester (Software, no license)
 * https://github.com/djtersteegc/z80-cmos-nmos-tester (MIT license)
 * https://github.com/skiselev/z80-tests (Software, GPL-3.0 license)
 * https://github.com/EtchedPixels/FUZIX/blob/master/Applications/util/cpuinfo-z80.S (Software, GPL-2.0 license)
-* https://groups.google.com/g/retro-comp/c/rhKeKpXmAXM (Software, No license)
-* https://www.malinov.com/sergeys-blog/z80-type-detection.html (Software, No license)
+* https://groups.google.com/g/retro-comp/c/rhKeKpXmAXM (Software, no license)
+* https://www.malinov.com/sergeys-blog/z80-type-detection.html (Software, no license)
 
 and finally Frank Cringle's Z80 instruction set exerciser
 * https://github.com/begoon/z80exer (Software, GPL-2.0 license)
